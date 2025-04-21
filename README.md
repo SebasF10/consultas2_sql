@@ -5,3 +5,7 @@
 ![Consulta 2](Departamento.png  "Consulta 2")
 
 ![Consulta 3](Empleados.png  "Consulta 3")
+
+# consultas
+
+![Consulta 4](apellidos.png  "Consulta 4![alt text](image.png)")
